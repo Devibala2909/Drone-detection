@@ -1,0 +1,4 @@
+weight/
+runs/
+__pycache__/
+*.pyc
